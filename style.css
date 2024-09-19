@@ -13,3 +13,56 @@ p{
    
 
 }
+
+iframe{
+    display: flex;
+    border-radius: 0%;
+    
+}
+.div1{
+    background-image: url(Foto-Serena-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+p{
+    font-size: 40px;
+    padding: 10px;
+    color: rgb(238, 239, 240);
+}
+#dois{
+    background-image: url(imag2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#tres{
+    background-image: url(Foto-Serena-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+#quatro{
+    background-image: url(imag2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#cinco{background-image: url(Foto-Serena-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#seis{
+    background-image: url(imag2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#sete{
+    background-image: url(Foto-Serena-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
